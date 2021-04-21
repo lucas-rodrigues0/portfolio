@@ -3,6 +3,7 @@ import { Route, Switch } from 'react-router-dom';
 import AboutMe from './pages/About';
 import ContactMe from './pages/Contact';
 import MainPage from './pages/MainPage';
+import './App.css';
 
 function App() {
   return (
