@@ -21,13 +21,13 @@ export default function Header() {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav variant="tabs">
               <Nav.Item>
-                <Nav.Link href="/">Inicio</Nav.Link>
+                <Nav.Link href="/" className="border border-secondary">Inicio</Nav.Link>
               </Nav.Item>
               <Nav.Item>
-                <Nav.Link href="/contact">Contatos</Nav.Link>
+                <Nav.Link href="/contact" className="border border-secondary">Contatos</Nav.Link>
               </Nav.Item>
               <Nav.Item>
-                <Nav.Link href="/about">Sobre mim</Nav.Link>
+                <Nav.Link href="/about" className="border border-secondary">Sobre mim</Nav.Link>
               </Nav.Item>
             </Nav>
           </Navbar.Collapse>
