@@ -5,6 +5,7 @@ import Footer from '../components/Footer';
 import Introduction from '../components/Introduction';
 import Competency from '../components/Competency';
 import { Col, Container, Row } from 'react-bootstrap';
+import ProjectsCarousel from '../components/ProjectsCarousel';
 
 function MainPage() {
   // const { globalState } = useContext(PortifolioContext);
@@ -22,6 +23,9 @@ function MainPage() {
                 <Competency />
               </Col>
             </Row>
+          </Container>
+          <Container>
+            <ProjectsCarousel />
           </Container>
           <Footer />
         </section>

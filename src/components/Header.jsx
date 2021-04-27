@@ -1,20 +1,11 @@
 import React from 'react';
-import { Navbar, Nav, Card } from 'react-bootstrap'
+import { Navbar, Nav, Image } from 'react-bootstrap'
+import LogoDev from '../images/LogoDev_full.png';
 
 export default function Header() {
   return (
     <header>
-      <Card
-        bg="light"
-        border="info"
-        className="text-center"
-        text="dark"
-      >
-        <Card.Header as="h1">Lucas Rodrigues de Castro</Card.Header>
-        <Card.Body>
-          <Card.Title>- Desenvolvedor Full Stack jr. -</Card.Title>
-        </Card.Body>
-      </Card>
+        <Image src={ LogoDev } fluid />
         <Navbar bg="dark" variant="dark" expand="lg">
           <Navbar.Brand>páginas</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
