@@ -18,7 +18,7 @@ export default function Competency() {
   return (
     <section>
       <Container>
-        <h4>Competências:</h4>
+        <h4>- Competências que possuo -</h4>
         <ListGroup variant="flush">
           <ListGroupItem
             card_text="Redux"

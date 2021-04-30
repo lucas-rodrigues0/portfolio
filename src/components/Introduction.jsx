@@ -7,7 +7,7 @@ export default function Introduction() {
       <Jumbotron fluid>
         <Container>
           <p>
-            Profissional autônomo em transição de carreira para a área de técnologia. Atualmente estudo Desenvolvimento Full Stack na Trybe, além dos estudos pela internet.
+            Profissional autônomo em transição de carreira para a área de técnologia. Atualmente estudo Desenvolvimento Full Stack na Trybe, além dos estudos pela internet e por livros.
           </p>
           <p>
             Sou luso-brasileiro, sendo brasileiro por parte de mãe e português por parte de pai. Nasci no Rio de Janeiro onde também moro atualmente. Tenho a formação superior de Tecnólogo em Cinema e Bacharel em Dança Contemporânea.

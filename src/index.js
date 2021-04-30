@@ -4,14 +4,11 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import PortifolioProvider from './contexts/portifolio_provider';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 ReactDOM.render(
   <Router>
-    <PortifolioProvider>
-      <App />
-    </PortifolioProvider>
+    <App />
   </Router>,
   document.getElementById('root')
 );

@@ -8,12 +8,12 @@ import './App.css';
 function App() {
   return (
     <main>
-        <Switch>
+      <Switch>
         <Route exact path="/" component={ MainPage } />
         <Route path="/about" component={ AboutMe } />
         <Route path="/contact" component={ ContactMe } />
-        </Switch>
-      </main>
+      </Switch>
+    </main>
   );
 }
 
