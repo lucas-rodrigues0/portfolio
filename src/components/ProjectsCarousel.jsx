@@ -25,7 +25,7 @@ export default function ProjectsCarousel() {
                 width="900" height="450"
               />
               <Carousel.Caption>
-                <Row className="justify-content-center custom-bg">
+                <Row className="justify-content-center">
                   <Badge variant="light">
                     <a href={ proj.iframe.source } target="blank">link para o projeto</a>
                   </Badge>
