@@ -44,7 +44,7 @@ export default function Footer() {
               </Button>
         </Card.Body>
         <Card.Footer className="text-muted">
-          <Card.Text as="span">Portifolio criado com React JS</Card.Text>
+          <Card.Text as="span">Portfolio criado com React JS</Card.Text>
           <Badge variant="dark">
             <Figure.Image
               width={ 20 }
