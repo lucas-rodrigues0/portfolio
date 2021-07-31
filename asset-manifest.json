@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.593892df.chunk.css",
-    "main.js": "/portfolio/static/js/main.d5091110.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d5091110.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.0f9be66a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0f9be66a.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.d678cc43.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.d678cc43.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/portfolio/static/css/2.4c97ca4f.chunk.css",
@@ -25,7 +25,9 @@
     "static/media/Instagram.51f3fb83.png": "/portfolio/static/media/Instagram.51f3fb83.png",
     "static/media/JEST.87eb5e73.png": "/portfolio/static/media/JEST.87eb5e73.png",
     "static/media/JS.78be3aef.png": "/portfolio/static/media/JS.78be3aef.png",
+    "static/media/Java.e419e26a.png": "/portfolio/static/media/Java.e419e26a.png",
     "static/media/LogoDev_full.922718e9.png": "/portfolio/static/media/LogoDev_full.922718e9.png",
+    "static/media/NodeExpressSequelize.457b0e85.png": "/portfolio/static/media/NodeExpressSequelize.457b0e85.png",
     "static/media/RTL.3a602634.png": "/portfolio/static/media/RTL.3a602634.png",
     "static/media/Wordpress.bc38e3ce.png": "/portfolio/static/media/Wordpress.bc38e3ce.png"
   },
@@ -34,6 +36,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.03123411.chunk.js",
     "static/css/main.593892df.chunk.css",
-    "static/js/main.d5091110.chunk.js"
+    "static/js/main.0f9be66a.chunk.js"
   ]
 }
