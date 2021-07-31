@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portifolio/static/css/main.0fc1775f.chunk.css",
-    "main.js": "/portifolio/static/js/main.2867dcc0.chunk.js",
-    "main.js.map": "/portifolio/static/js/main.2867dcc0.chunk.js.map",
-    "runtime-main.js": "/portifolio/static/js/runtime-main.d1dd0ce5.js",
-    "runtime-main.js.map": "/portifolio/static/js/runtime-main.d1dd0ce5.js.map",
-    "static/js/2.798cfbae.chunk.js": "/portifolio/static/js/2.798cfbae.chunk.js",
-    "static/js/2.798cfbae.chunk.js.map": "/portifolio/static/js/2.798cfbae.chunk.js.map",
-    "index.html": "/portifolio/index.html",
-    "static/css/main.0fc1775f.chunk.css.map": "/portifolio/static/css/main.0fc1775f.chunk.css.map",
-    "static/js/2.798cfbae.chunk.js.LICENSE.txt": "/portifolio/static/js/2.798cfbae.chunk.js.LICENSE.txt",
-    "static/media/LucasBN.1641b012.jpg": "/portifolio/static/media/LucasBN.1641b012.jpg",
-    "static/media/LucasPB.054a3825.jpg": "/portifolio/static/media/LucasPB.054a3825.jpg",
-    "static/media/LucasPraia.9ed20aa8.jpg": "/portifolio/static/media/LucasPraia.9ed20aa8.jpg",
-    "static/media/Trybe01.e06ed55c.jpg": "/portifolio/static/media/Trybe01.e06ed55c.jpg"
+    "main.css": "/portfolio/static/css/main.0fc1775f.chunk.css",
+    "main.js": "/portfolio/static/js/main.3f6b6310.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3f6b6310.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.05ab3315.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.05ab3315.js.map",
+    "static/js/2.53630899.chunk.js": "/portfolio/static/js/2.53630899.chunk.js",
+    "static/js/2.53630899.chunk.js.map": "/portfolio/static/js/2.53630899.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.0fc1775f.chunk.css.map": "/portfolio/static/css/main.0fc1775f.chunk.css.map",
+    "static/js/2.53630899.chunk.js.LICENSE.txt": "/portfolio/static/js/2.53630899.chunk.js.LICENSE.txt",
+    "static/media/LucasBN.1641b012.jpg": "/portfolio/static/media/LucasBN.1641b012.jpg",
+    "static/media/LucasPB.054a3825.jpg": "/portfolio/static/media/LucasPB.054a3825.jpg",
+    "static/media/LucasPraia.9ed20aa8.jpg": "/portfolio/static/media/LucasPraia.9ed20aa8.jpg",
+    "static/media/Trybe01.e06ed55c.jpg": "/portfolio/static/media/Trybe01.e06ed55c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1dd0ce5.js",
-    "static/js/2.798cfbae.chunk.js",
+    "static/js/runtime-main.05ab3315.js",
+    "static/js/2.53630899.chunk.js",
     "static/css/main.0fc1775f.chunk.css",
-    "static/js/main.2867dcc0.chunk.js"
+    "static/js/main.3f6b6310.chunk.js"
   ]
 }
